@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy Daniel 👋</h1>
-  <h2 align="center">Bienvenid@ a mi repositorio 👋</h2>
+  <h2 align="center">Bienvenid@ a mi repositorio 🧑‍💻</h2>
 </div>
 <!--
 **DanielGuerreroRa/DanielGuerreroRa** is a ✨ _special_ ✨ repository because 
